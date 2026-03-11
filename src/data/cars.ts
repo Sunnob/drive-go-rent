@@ -8,7 +8,7 @@ export const mockCars: Car[] = [
     model: 'M3 G80',
     year: 2024,
     pricePerDay: 450,
-    imageUrl: 'image/m3-g80.jpg',
+    imageUrl: 'image/bmw_g80.jpg',
     category: 'Sport',
     specs: { hp: 510, engine: '3.0L I6 S58', transmission: 'Automatic' },
     isAvailable: true,
